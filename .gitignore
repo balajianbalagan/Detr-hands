@@ -1,0 +1,5 @@
+FreiHAND_pub_v2_eval/evaluation/**
+venv/**
+logs/**
+**/FreiHAND_pub_v2_eval/*.json
+FreiHAND_pub_v2_eval/evaluation_errors.json
